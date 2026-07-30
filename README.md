@@ -19,20 +19,7 @@ Computer Vision, Large Language Models and modern web technologies.
   </a>
 </p>
 
----
 
-## 👨‍💻 About Me
-
-- 🎓 Software Engineering graduate
-- 🤖 Interested in Artificial Intelligence and intelligent agents
-- 👁️ Currently developing my skills in Computer Vision
-- 🧠 Experienced with Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
-- 🏆 Multiple hackathon participant and winner
-- 🚀 Founder and lead developer of NemaCode
-- 💼 Open to Software Engineering, Artificial Intelligence and Computer Vision opportunities
-- 📍 Based in Tunisia
-
----
 
 ## 🛠️ Languages and Technologies
 
@@ -48,17 +35,6 @@ Computer Vision, Large Language Models and modern web technologies.
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Large Language Models
-- Retrieval-Augmented Generation
-- LangChain
-- LangGraph
-- Pandas
-- NumPy
-- Scikit-learn
 
 ### Web Development
 
