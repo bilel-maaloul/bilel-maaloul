@@ -62,39 +62,5 @@ data-analysis platforms, computer vision systems and modern web applications.
 
 ---
 
-## Featured Projects
 
-### LangGraph Multi-Tool Agent
 
-AI agent with intent routing, web search, calculator execution,
-conversation memory and a web interface.
-
-### KPI Analysis Agent
-
-Natural-language agent for querying, analysing and visualising
-business Key Performance Indicators.
-
-### RAG Policy Question Answering
-
-Retrieval-Augmented Generation system with citation validation,
-batch evaluation and refusal detection.
-
-### Disaster Roof Detection
-
-Computer vision system using YOLOv8 to detect roof types
-from aerial imagery for disaster-response planning.
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=bilel-maaloul&show_icons=true&theme=github_dark&hide_border=true"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilel-maaloul&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
